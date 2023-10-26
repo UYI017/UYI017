@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @UYI017
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R and Machine Learning
+- 🌱 Python skills checked
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me briggs017@gmail.com
 
